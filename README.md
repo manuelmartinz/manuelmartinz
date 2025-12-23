@@ -1,4 +1,4 @@
-  # Hello 👋
+# Hello 👋
 
 <p align="center">
   <a href="#about-me">
@@ -74,13 +74,6 @@ Here I collect academic and personal projects related to web/app development, da
   <img alt="GitHub" height="36" src="https://skillicons.dev/icons?i=github" />
   <img alt="Trello" height="36" src="https://skillicons.dev/icons?i=trello" />
 
-  <!-- Local assets (recommended for reliability) -->
-  <img alt="RubyMine" height="40" src="assets/rubymine.svg" />
-  <img alt="Oracle SQL Developer" height="40" src="assets/sqldeveloper.svg" />
-</p>
-
-> If RubyMine / SQL Developer icons don’t render, check these paths:
-> `assets/rubymine.svg` and `assets/sqldeveloper.svg`
 
 ---
 
