@@ -1,78 +1,93 @@
-<h1 align="center">Hi there 👋</h1>
+  # Hello 👋
 
 <p align="center">
-  <b>Computer Engineering student</b> at the <b>University of Granada</b><br/>
-  Practical mindset • Software Development • <b>AI</b> & <b>Machine Learning</b> (Supervised Learning, Neural Networks)
-</p>
-
-<p align="center">
-  <a href="#-interests">Interests</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-skills">Skills</a> •
-  <a href="#-tools">Tools</a>
+  <a href="#about-me">
+    <img alt="About" src="https://img.shields.io/badge/About-0A66C2?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+  <a href="#interests">
+    <img alt="Interests" src="https://img.shields.io/badge/Interests-111827?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
+  <a href="#tech-stack">
+    <img alt="Tech Stack" src="https://img.shields.io/badge/Tech_Stack-334155?style=for-the-badge&logo=dependabot&logoColor=white" />
+  </a>
+  <a href="#skills">
+    <img alt="Skills" src="https://img.shields.io/badge/Skills-374151?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Interests
+## About me
+
+I’m a **Computer Engineering student at the University of Granada** with a practical approach to software development.  
+I’m especially interested in **Artificial Intelligence** and **Machine Learning**, with a focus on **supervised learning** and **neural networks**.
+
+Here I collect academic and personal projects related to web/app development, databases, and analysis.
+
+---
+
+## Interests
+
 - Artificial Intelligence & Machine Learning  
 - Neural Networks  
 - Supervised Learning  
-- Data Analysis (incl. statistical analysis)  
+- Data Analysis (including statistical analysis)  
 - Network Analysis  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
 ### Languages
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img alt="C" height="36" src="https://skillicons.dev/icons?i=c" />
+  <img alt="C++" height="36" src="https://skillicons.dev/icons?i=cpp" />
+  <img alt="Java" height="36" src="https://skillicons.dev/icons?i=java" />
+  <img alt="Python" height="36" src="https://skillicons.dev/icons?i=python" />
+  <img alt="Ruby" height="36" src="https://skillicons.dev/icons?i=ruby" />
+  <img alt="JavaScript" height="36" src="https://skillicons.dev/icons?i=js" />
+  <img alt="HTML" height="36" src="https://skillicons.dev/icons?i=html" />
+  <img alt="CSS" height="36" src="https://skillicons.dev/icons?i=css" />
+  <img alt="PHP" height="36" src="https://skillicons.dev/icons?i=php" />
 </p>
 
 ### Databases
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img alt="MySQL" height="36" src="https://skillicons.dev/icons?i=mysql" />
+  <img alt="MongoDB" height="36" src="https://skillicons.dev/icons?i=mongodb" />
+  <img alt="MariaDB" height="36" src="https://skillicons.dev/icons?i=mariadb" />
 </p>
 
-### Environment & Frameworks
+### Frameworks & environment
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React / React Native" />
+  <img alt="Node.js" height="36" src="https://skillicons.dev/icons?i=nodejs" />
+  <img alt="React" height="36" src="https://skillicons.dev/icons?i=react" />
 </p>
+
+### Tools
+
+<p>
+  <img alt="Git" height="36" src="https://skillicons.dev/icons?i=git" />
+  <img alt="GitHub" height="36" src="https://skillicons.dev/icons?i=github" />
+  <img alt="Trello" height="36" src="https://skillicons.dev/icons?i=trello" />
+
+  <!-- Local assets (recommended for reliability) -->
+  <img alt="RubyMine" height="40" src="assets/rubymine.svg" />
+  <img alt="Oracle SQL Developer" height="40" src="assets/sqldeveloper.svg" />
+</p>
+
+> If RubyMine / SQL Developer icons don’t render, check these paths:
+> `assets/rubymine.svg` and `assets/sqldeveloper.svg`
 
 ---
 
-## 🧰 Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello" />
-</p>
+## Skills
 
-> RubyMine y Oracle SQL Developer no están en Devicon de forma estable.  
-> Si quieres, los añado como badges en texto o con iconos alternativos.
-
----
-
-## ✅ Skills
 - Analytical skills & critical thinking  
 - Algorithm design and analysis  
-- Database administration and querying (SQL)  
-- Agile methodologies  
+- Database administration and querying  
+- Agile methodologies (Scrum)  
 - Servers and operating systems  
-
----
-
-### 📌 Notes
-- I pin my best projects on my profile for quick access.
