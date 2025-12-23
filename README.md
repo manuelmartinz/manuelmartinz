@@ -68,12 +68,13 @@ Here I collect academic and personal projects related to web/app development, da
 </p>
 
 ### Tools
-
 <p>
   <img alt="Git" height="36" src="https://skillicons.dev/icons?i=git" />
   <img alt="GitHub" height="36" src="https://skillicons.dev/icons?i=github" />
-  <img alt="Trello" height="36" src="https://skillicons.dev/icons?i=trello" />
-
+  <img alt="Trello" height="36" src="https://icon.icepanel.io/Technology/svg/Trello.svg" />
+  <img alt="RubyMine" height="36" src="https://icon.icepanel.io/Technology/svg/RubyMine.svg" />
+  <img alt="Oracle SQL Developer" height="36" src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" />
+</p>
 
 ---
 
