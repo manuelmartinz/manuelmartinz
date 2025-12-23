@@ -1,45 +1,51 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-I’m a **Computer Engineering student at the University of Granada**. I’m interested in software development with a practical mindset and, alongside that, **Artificial Intelligence** and **Machine Learning**, especially **supervised learning** and **neural networks**.
+<p align="center">
+  <b>Computer Engineering student</b> at the <b>University of Granada</b>.<br/>
+  I like building practical projects and learning by doing — especially around <b>AI</b> & <b>Machine Learning</b>
+  (supervised learning, neural networks).
+</p>
 
-This profile includes academic and personal projects, as well as coursework related to web/app development, databases, and analysis.
+<p align="center">
+  <a href="#interests">Interests</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#skills">Skills</a>
+</p>
 
 ---
 
-## Areas of interest
-- Artificial Intelligence and Machine Learning
-- Neural networks
-- Supervised learning
-- Data analysis (including statistical analysis)
-- Network analysis
+## Interests
+- Artificial Intelligence & Machine Learning
+- Neural Networks
+- Supervised Learning
+- Data Analysis (incl. statistical analysis)
+- Network Analysis
 
 ---
 
-## Technologies
+## Tech Stack
 
 ### Languages
-- **C++**, **Java**, **C**, **Python**, **Ruby**
-- **JavaScript**, **HTML**, **CSS**, **PHP**
-- **SQL**, **XML**
+`C++` `Java` `C` `Python` `Ruby` `JavaScript` `HTML` `CSS` `PHP` `SQL` `XML`
 
 ### Databases
-- **MySQL**, **MariaDB**, **MongoDB**
+`MySQL` `MariaDB` `MongoDB`
 
-### Environment & frameworks
-- **Node.js**
-- **React Native**
+### Environment & Frameworks
+`Node.js` `React Native`
 
 ### Tools
-- **Git**, **GitHub**
-- **Trello**
-- **RubyMine**
-- **Oracle SQL Developer**
+`Git` `GitHub` `Trello` `RubyMine` `Oracle SQL Developer`
 
 ---
 
 ## Skills
-- Analytical skills and critical thinking  
+- Analytical thinking & problem solving  
 - Algorithm design and analysis  
-- Database administration and querying  
+- Database administration and querying (SQL)  
 - Agile methodologies  
 - Servers and operating systems  
+
+---
+
+
