@@ -39,14 +39,10 @@ En este perfil recopilo proyectos académicos y personales, además de práctica
 
 ## Competencias
 - Capacidad de análisis y pensamiento crítico  
-- Razonamiento lógico y deductivo  
 - Diseño y análisis de algoritmos  
-- Administración y consulta de bases de datos (SQL)  
-- Metodologías ágiles (Scrum)  
+- Administración y consulta de bases de datos  
+- Metodologías ágiles   
 - Servidores y sistemas operativos  
-- Resolución de problemas (software y hardware)
 
----
 
-## Estadísticas (opcional)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+
